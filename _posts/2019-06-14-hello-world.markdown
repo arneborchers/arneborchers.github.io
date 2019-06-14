@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World"
 date:   2019-06-14
 categories: Welcome HelloWorld
-image: /_posts/nasa.jpg
+featured-img: /_posts/nasa.jpg
 ---
 Willkommen auf meinem Blog! 
 
