@@ -1,4 +1,4 @@
-title: Your awesome title
+title: Arne Borchers
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -12,16 +12,16 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: Arne Borchers
+  tagline: Cloud Computing, Technolgy and more.
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: arneee3
+    github:  arneborchers
+    linkedIn: in/arne-borchers-442bb7164
     rss: rss
     # dribbble: jekyll
     # facebook: jekyll
