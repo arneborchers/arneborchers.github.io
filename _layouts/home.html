@@ -19,6 +19,9 @@ layout: default
 		<a class="post-link" href="{{ post.url | relative_url }}">
 			<h2 class="post-title">{{ post.title | escape }}</h2>
 		</a>
+		{% if page.feature-img %}
+			<img class="feature-image" src={{ page.feature-img }} alt="Feature Image"/>
+		{% endif %}
 		<div class="post-meta">
 			<ul class="post-categories">
 				{%- for tag in post.categories -%}
